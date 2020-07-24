@@ -44,7 +44,7 @@ class ContactController extends Controller
         Mail::send(new ContactMail($data));
 
         Mail::send('success', $data, function ($message) use ($data) {
-            $message->from('bestpaulpipeloluwa@gmail.com', 'Bestpaul.dev');
+            $message->from('info@Logikz.pro', 'Logikz.pro');
             $message->to($data['email'])->subject('Thank you for the interest');
         });
 
@@ -63,7 +63,7 @@ class ContactController extends Controller
             });
         */
 
-        return redirect()->back()->with('alert', 'Thanks for contacting me! a response has been sent to the given email');
+        return redirect()->back()->with('alert', 'Thanks for contacting Logikz.pro! a response has been sent to your given email,also check your spam folder and mark us as not spam');
     }
 
 

@@ -7,15 +7,13 @@
 <body>
 <p>Hello {{ $forename}} {{$surname}},</p>
 <p>
-    Thanks for contacting bestpaul.dev.
+    Thanks for contacting Logikz.pro.
     I am sure this is your email <span>{{$email}}</span><br>
-    This is an automated email, a detailed response to your enquiry will be given within the next 24 hours.<br>
+    This is an automated response, therefore a detailed response to your enquiry will be given within the next 24 hours.<br>
     Thanks for your patience.
 </p>
 <p>
-    Bestpaul
-    <br>
-    bestpaul.dev
+    Logikz.pro
 </p>
 </body>
 </html>

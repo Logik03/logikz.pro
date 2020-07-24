@@ -13,7 +13,7 @@
         <div class="row">
             <div class="col-lg-8 mx-auto">
                 @if (session('alert'))
-                    <p class="alert alert-success">{{ session('alert') }}</p>
+                    <p class="alert alert-success" id="alert">{{ session('alert') }}</p>
                 @endif
                 @if (count($errors) > 0)
                     @foreach ($errors->all() as $error)
@@ -112,4 +112,9 @@
         </div>
     </div>
 </div>
+<script type="text/javascript">
+        setTimeout(function() {
+          $('#alert').fadeOut('fast');
+      }, 15000);
+    </script> 
 @endsection

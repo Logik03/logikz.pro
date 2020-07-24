@@ -6,7 +6,7 @@
             </div>
             <!-- /.6-->
             <div class="col-md-6 text-center text-lg-right mt-4 mt-lg-0">
-                <p>© 2020 Tobihbest.dev</p>
+                <p>© 2020 Logikz.pro</p>
             </div>
 
         </div>
@@ -23,6 +23,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.4.0/leaflet.js"> </script>
 <script src="http://maps.google.com/maps/api/js?key=AIzaSyCuojKf7iGcVjMmArkW-y1vdBIOa3rP_Y4"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gmaps.js/0.4.25/gmaps.js"></script>
+
 
 
 

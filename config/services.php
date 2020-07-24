@@ -15,9 +15,9 @@ return [
     */
 
     'mailgun' => [
-        'domain' => env('MAILGUN_DOMAIN'),
-        'secret' => env('MAILGUN_SECRET'),
-        'endpoint' => env('MAILGUN_ENDPOINT', 'api.mailgun.net'),
+        'domain' => 'logikz.pro',
+        'secret' => '536c0caabee217b2e6a4cb8bb4d6e1da-0afbfc6c-2d91a1bd',
+        'endpoint' =>'api.eu.mailgun.net',
     ],
 
     'postmark' => [

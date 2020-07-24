@@ -14,23 +14,26 @@
                 <div data-animate="fadeInUp" class="col-lg-4">
                     <div class="icon"><i class="fa fa-search"></i></div>
                     <h3 class="heading mb-3 text-400">Consulting</h3>
-                    <p class="text-left description">On on produce colonel pointed. Just four sold need over how any. In to september suspicion determine he prevailed admitting. On adapted an as affixed limited on. Giving cousin warmly things no spring mr be abroad. Relation breeding be as repeated strictly followed margaret. One gravity son brought shyness waiting regular led ham.</p>
+                    <p class="text-left description">Have that bright techie idea that wont just let you sleep at night? need to leverage on the power of IT and technology to drive and scale your business?dont know how to get it started? need capable hands to get the job done? Get in touch! let us connect you to the best engineers and firms to get the job done efficiently and fast...........</p>
+                    <p><a href="#" class="btn btn-outline-light link-scroll">read more</a></p>
                 </div>
                 <div data-animate="fadeInUp" class="col-lg-4">
                     <div class="icon"><i class="fa fa-cogs"></i></div>
                     <h3 class="heading mb-3 text-400">Software Development</h3>
-                    <p class="text-left description">Manor we shall merit by chief wound no or would. Oh towards between subject passage sending mention or it. Sight happy do burst fruit to woody begin at. Assurance perpetual he in oh determine as.</p>
+                    <p class="text-left description">Manor we shall merit by chief wound no or would. Oh towards between subject passage sending mention or it. Sight happy do burst fruit to woody begin at. Assurance perpetual he in oh determine as let us connect you to the best engineers and firms to get the job done efficiently and fast shall merit by chief wound no or would...........</p>
+                    <p><a href="#" class="btn btn-outline-light link-scroll">read more</a></p>
                 </div>
                 <div data-animate="fadeInUp" class="col-lg-4">
                     <div class="icon"><i class="fa fa-tachometer"></i></div>
-                    <h3 class="heading mb-3 text-400">PHP webdevelopment</h3>
-                    <p class="text-left description">Rooms oh fully taken by worse do. Points afraid but may end law lasted. Was out laughter raptures returned outweigh. Luckily cheered colonel me do we attacks on highest enabled. Tried law yet style child. Bore of true of no be deal.</p>
+                    <h3 class="heading mb-3 text-400">web development</h3>
+                    <p class="text-left description">Rooms oh fully taken by worse do. Points afraid but may end law lasted. Was out laughter raptures returned outweigh. Luckily cheered colonel me do we attacks on highest enabled. Tried law yet style child. Bore of true of no be deal let us connect you to the best engineers and firms to get the job done efficiently and fast...........</p>
+                    <p><a href="#" class="btn btn-outline-light link-scroll">read more</a></p>
                 </div>
             </div>
             <hr data-animate="fadeInUp">
             <div data-animate="fadeInUp" class="text-center">
                 <p class="lead">Would you like to know more or just discuss something?</p>
-                <p><a href="mailto:bestpaulpipeloluwa@gmail.com" class="btn btn-outline-light link-scroll">Say Hello</a></p>
+                <p><a href="mailto:bestpaulpipeloluwa@gmail.com" class="btn btn-outline-light link-scroll">Say Hi</a></p>
             </div>
         </div>
     </section>
